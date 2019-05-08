@@ -11,7 +11,7 @@ autocmd BufNewFile,BufRead *.py,*.sh   vnoremap <buffer> <leader>c I#<esc>
 
 
 " abbreviations
-:iabbrev @@    pedro.hq.qin@mail.foxconn.com
+:iabbrev @@    constmyheart@163.com
 :iabbrev ccopy Copyright 2019 Pedro Qin, all rights reserved.
 
 " Default Indentation
